@@ -3,7 +3,7 @@
 
   
 
-## I'm a Data Scientist and Data Analyst
+## I'm a Data Scientist
 - 💻 I really love working with data
 - 👩‍🎓 I have a master's degree in data science
 - 🧪 I used  machine learning  in medicine

@@ -37,8 +37,13 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TatyanaVORONOVA&show_icons=true" />
 </details>
 
+### My certificates:
 
+[<img align="left" alt="TatyanaVORONOVA | SQL" width="22px"  />][SQL]
+
+<br />
 
 
 [vk]: https://vk.com/voronova_tmn
 [Telegram]: https://t.me/tanya_voronova72
+[SQL]: https://stepik.org/cert/1974532

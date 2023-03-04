@@ -44,7 +44,7 @@
 [<img align="left" alt="TatyanaVORONOVA | Python" width="60px" src="https://stepik.org/media/cache/images/courses/67/cover/a58221f521114b81084c0f72200131c0.png" />][Python]
 
 
-
+<br />
 <br />
 
 <details>

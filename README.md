@@ -17,6 +17,8 @@
 ### 🧰 Languages and Tools:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
+
 <br />
 
 
@@ -30,12 +32,14 @@
 
 <br />
 
+
 ### Connect with me:
 
 [<img align="left" alt="TatyanaVORONOVA | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="TatyanaVORONOVA | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
-<br />
 
+
+<br />
 
 
 <details>

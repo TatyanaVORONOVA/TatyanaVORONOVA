@@ -18,7 +18,9 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 
+### My certificates:
 
+[<img align="left" alt="TatyanaVORONOVA | SQL" width="50px" src="https://stepik.org/media/cache/images/courses/116332/cover_f3Lm49M/3799a95c78aa0808682b9ec3da2f7b62.png" />][SQL]
 <br />
 <br />
 
@@ -37,9 +39,7 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TatyanaVORONOVA&show_icons=true" />
 </details>
 
-### My certificates:
 
-[<img align="left" alt="TatyanaVORONOVA | SQL" width="22px" src="https://stepik.org/media/cache/images/courses/116332/cover_f3Lm49M/3799a95c78aa0808682b9ec3da2f7b62.png" />][SQL]
 
 <br />
 

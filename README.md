@@ -22,11 +22,7 @@
 <br />
 
 
-### My certificates:
 
-[<img align="left" alt="TatyanaVORONOVA | SQL" width="60px" src="https://stepik.org/media/cache/images/courses/116332/cover_f3Lm49M/3799a95c78aa0808682b9ec3da2f7b62.png" />][SQL]
-
-[<img align="left" alt="TatyanaVORONOVA | Python" width="60px" src="https://stepik.org/media/cache/images/courses/67/cover/a58221f521114b81084c0f72200131c0.png" />][Python]
 
 
 
@@ -38,9 +34,18 @@
 [<img align="left" alt="TatyanaVORONOVA | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="TatyanaVORONOVA | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
 
-
+<br />
 <br />
 
+### My certificates:
+
+[<img align="left" alt="TatyanaVORONOVA | SQL" width="60px" src="https://stepik.org/media/cache/images/courses/116332/cover_f3Lm49M/3799a95c78aa0808682b9ec3da2f7b62.png" />][SQL]
+
+[<img align="left" alt="TatyanaVORONOVA | Python" width="60px" src="https://stepik.org/media/cache/images/courses/67/cover/a58221f521114b81084c0f72200131c0.png" />][Python]
+
+
+
+<br />
 
 <details>
   <summary>:zap: Statistics:</summary>

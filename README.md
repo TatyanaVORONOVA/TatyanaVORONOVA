@@ -39,7 +39,7 @@
 
 ### My certificates:
 
-[<img align="left" alt="TatyanaVORONOVA | SQL" width="22px" src="https://stepik.org/static/frontend/topbar_logo.svg" />][SQL]
+[<img align="left" alt="TatyanaVORONOVA | SQL" width="22px" src="https://stepik.org/media/cache/images/courses/116332/cover_f3Lm49M/3799a95c78aa0808682b9ec3da2f7b62.png" />][SQL]
 
 <br />
 

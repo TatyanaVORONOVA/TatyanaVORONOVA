@@ -28,7 +28,9 @@
  
  
 <br />
-`hr`___
+
+<br />
+
 ### My certificates:
 
 [<img align="left" alt="TatyanaVORONOVA | SQL" width="60px" src="https://stepik.org/media/cache/images/courses/116332/cover_f3Lm49M/3799a95c78aa0808682b9ec3da2f7b62.png" />][SQL]
@@ -37,12 +39,14 @@
 <br />
 
 <br />
-___
+
+<br />
+
 ### Connect with me:
 
-[<img align="left" alt="TatyanaVORONOVA | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="TatyanaVORONOVA | VK" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
-[<img align="left" alt="TatyanaVORONOVA | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
+[<img align="left" alt="TatyanaVORONOVA | Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
 
 
 <br />

@@ -3,10 +3,9 @@
 
   
 
-## I'm a Data Scientist
+## I'm a Data Analyst
 - 💻 I really love working with data
-- 👩‍🎓 I have a master's degree in data science
-- 🧪 I used  machine learning  in medicine
+- 👩‍🎓 I am the master of business informatics
 - 💳 I have experience in banking analytics
 - 📚 I am constantly learning new things
 
